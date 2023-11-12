@@ -1,24 +1,9 @@
 # 10 High School of the city of Severomorsk
 
-## Period
-
-Jan, 2013 - Jun, 2018
-
-## Job Position
-
-Teacher of Computer Science
-
-## Project Roles
-
-Teacher, System Administrator
-
-## Customer
-
-Organization itself
-
-## Company URL
-
-<http://severschool10.ru>
+- **Period:** 2013-01 - 2018-06
+- **Job Position**: Teacher of Computer Science
+- **Project Roles**: Teacher, System Administrator
+- **Company URL**: <http://severschool10.ru>
 
 ## Description
 
@@ -37,11 +22,6 @@ Organization itself
 - **System administration**:
   - *Website management*: administration, content management, design and features editing
   - *Supporting of computer equipment*: workstations, servers, networks, video surveillance, etc.
-
-## Team
-
-- Students since 5th grade to 11
-- Supply manager
 
 ## Database
 
@@ -76,3 +56,8 @@ Microsoft Access, SQLite, JSON, CSV, XML
   - *Users management*: LDAP, Jabber
   - *Networking*: DNS, DHCP, TCP/IP, SSH, RDP, network utils
   - *Storage*: RAID, Backuping and Restoring, NFS
+
+## Team
+
+- Students since 5th grade to 11
+- Supply manager

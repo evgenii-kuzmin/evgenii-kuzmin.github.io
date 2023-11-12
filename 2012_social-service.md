@@ -1,24 +1,9 @@
 # Center of social support of the population of the city of Severomorsk
 
-## Period
-
-Mar, 2012 - Jan, 2013
-
-## Job Position
-
-Database administrator
-
-## Project Roles
-
-Database administrator, system administrator
-
-## Customer
-
-Organization itself
-
-## Company URL
-
-<http://socsever.ucoz.ru/>
+- **Period:** 2012-03 - 2013-01
+- **Job Position**: Database Administrator
+- **Project Roles**: Database Administrator, System Administrator
+- **Company URL**: <http://socsever.ucoz.ru/>
 
 ## Description
 
@@ -33,11 +18,6 @@ Organization itself
 - Database administration: configuration, replication, backup
 - Website management: administration, content management, design and features editing
 - System administration of computer equipment: workstations, servers, networks
-
-## Team
-
-- Business operations: 30 employees
-- System administrators: 3 employees
 
 ## Database
 
@@ -60,3 +40,8 @@ Microsoft SQL Server
   - *Business applications*: Internal .NET-platform, 1C
 - **Databases**: SQL
 - **Web development**: PHP, JavaScript, XML, HTML, CSS
+
+## Team
+
+- **Business operations**: 30
+- **System Administrators**: 3

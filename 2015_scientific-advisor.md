@@ -1,24 +1,9 @@
 # High school #10 of the city of Severomorsk
 
-## Period
-
-Sep, 2015 - Jun, 2018
-
-## Job Position
-
-Scientific Adviser
-
-## Project Roles
-
-Programing Coach, IT Consultant, Project Manager, Software Developer
-
-## Customer
-
-Self-employment
-
-## Company URL
-
-<http://severschool10.ru>
+- **Period:** 2015-09 - 2018-06
+- **Job Position**: Scientific Adviser
+- **Project Roles**: Programing Coach, IT Consultant, Project Manager, Software Developer
+- **Company URL**: <http://severschool10.ru>
 
 ## Description
 
@@ -40,10 +25,6 @@ Self-employment
   - Collaboration management via Git
 - Training students for participation in the Olympiad in programming
 - Conducting additional lessons of robotics
-
-## Team
-
-Highly engaged and successful students
 
 ## Database
 
@@ -67,3 +48,7 @@ Microsoft Access, SQLite, MySQL, JSON, CSV
 - **Web development**: Flask, HTML, CSS (Vanila/Bootstrap), JavaScript
 - **Version control**: Git (Github.com)
 - **Hosting**: Python Anywhere
+
+## Team
+
+Highly engaged and successful students
