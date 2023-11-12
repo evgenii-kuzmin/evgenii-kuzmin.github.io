@@ -9,7 +9,7 @@
 
 - Ensuring the fault tolerance of the database and host servers
 - Database operating: generation of non-specific reports, loading and retrieving of required data
-- Administration of IT-infrastructure including workstations, servers, network and peripherals
+- Administration of IT infrastructure including workstations, servers, network and peripherals
 
 ## Participation
 
@@ -39,7 +39,7 @@ Microsoft SQL Server
   - *Storage*: RAID, Backuping and Restoring, NFS
   - *Business applications*: Internal .NET-platform, 1C
 - **Databases**: SQL
-- **Web development**: PHP, JavaScript, XML, HTML, CSS
+- **Web Development**: PHP, JavaScript, XML, HTML, CSS
 
 ## Team
 

@@ -16,7 +16,7 @@
 
 - **Teaching**:
   - Teaching basic computer science course for grades 7-11
-  - Teaching advanced level computer science course for grades 10-11
+  - Teaching advanced-level computer science course for grades 10-11
   - Teaching the course on artificial intelligence
   - Conducting optional classes with children in grades 5-6 in visual programming using Scratch and Kodu Game Lab
 - **System administration**:
@@ -59,5 +59,5 @@ Microsoft Access, SQLite, JSON, CSV, XML
 
 ## Team
 
-- Students since 5th grade to 11
+- Students from 5th grade to 11
 - Supply manager

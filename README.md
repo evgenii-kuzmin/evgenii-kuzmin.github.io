@@ -1,8 +1,8 @@
 # Evgenii Kuzmin
 
-I have 5+ years of experience as a Python Developer and 10+ years in IT sphere, including system administration, web developing and education.
+I have 5+ years of experience as a Python Developer and 10+ years in the IT sphere, including system administration, web development and education.
 
-I'm most skilled in design and implementation of cloud-native applications using Python and AWS. I believe that Python, Cloud and DevOps methodology are the best tools to solve business problems by delivering high quality software faster.
+I'm most skilled in the design and implementation of cloud-native applications using Python and AWS. I believe that Python, Cloud and DevOps methodology are the best tools to solve business problems by delivering high-quality software faster.
 
 As a big fan of the concept of continuous learning, I always strive to improve the quality of our projects as well as our skills. I think that sharing your knowledge and experience is the same important as well as studying.
 

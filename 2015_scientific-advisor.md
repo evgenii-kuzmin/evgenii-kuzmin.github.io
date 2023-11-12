@@ -2,7 +2,7 @@
 
 - **Period:** 2015-09 - 2018-06
 - **Job Position**: Scientific Adviser
-- **Project Roles**: Programing Coach, IT Consultant, Project Manager, Software Developer
+- **Project Roles**: Programming Coach, IT Consultant, Project Manager, Software Developer
 - **Company URL**: <http://severschool10.ru>
 
 ## Description
@@ -14,17 +14,17 @@
 
 ## Participation
 
-- Encouraging and helping to students who are participating in research projects competition
+- Encouraging and helping students who are participating in research projects competition
 - Consulting students about technical and documentation aspects
-- Technical support in development and management of projects, including:
+- Technical support in the development and management of projects, including:
   - Developing of backend on Flask
   - Developing of frontend: design, layout, integration with backend
-  - Integration with SQL database: design, implementation, quering
+  - Integration with SQL database: design, implementation, querying
   - Setting up of export/import of data into various formats: CSV, JSON, XLS
   - Integration with external services/APIs: VK.API, Telegram API, Yandex SpeechKit, etc.
   - Collaboration management via Git
 - Training students for participation in the Olympiad in programming
-- Conducting additional lessons of robotics
+- Conducting additional lessons in robotics
 
 ## Database
 
