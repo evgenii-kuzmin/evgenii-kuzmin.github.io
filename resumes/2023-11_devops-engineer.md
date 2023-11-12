@@ -15,7 +15,7 @@ I am an IT specialist with 10+ years of experience, for the last 5 years, I've b
 
 I participated in projects related to the handling of cloud infrastructure, development of microservices, ETL (web-scraping, serializing, storing). On my last project, I've been working as a Key Python Developer in a DevOps team. I've developed different infrastructure utilities, APIs and services, starting from programming on Python to creating infrastructure using Terraform and building CI/CD using Jenkins, Groovy and Bash.
 
-I have strong programming skills, I'm interested in clouds and automation, and I like DevOps methodology, so I'm looking for a position as a DevOps Engineer.
+My robust programming skills, coupled with a keen interest in cloud technology and automation, fuel my passion for the DevOps methodology, motivating me to seek a role as a DevOps Engineer.
 
 ## Skills
 

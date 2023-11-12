@@ -21,7 +21,8 @@ Self-motivated, conflict-free and responsible team player.
 - **Infrastructure as a code**: Terraform, Terragrunt
 - **CI/CD**: Jenkins, GitHub Actions, AWS CodePipeline
 - **Web**:
-  - *Frameworks*: Flask, Pyramid, aiohttp
+  - *Frameworks*: FaseAPI, Flask, Pyramid, Aiohttp
+  - *Validation/Serialization*: Pydantic, Marshmallow
   - *Scrapers/Parsers*: Selenium, lxml, Beautiful Soup
 - **Databases**: DynamoDB, PosgreSQL, Redis
 - **Database interaction**: SQLAlchemy, Alembic, boto3.dynamodb, redis-py, Pandas
@@ -45,8 +46,10 @@ Self-motivated, conflict-free and responsible team player.
   - [Sep, 2015 - Jun, 2018: Programing coach, IT consultant, project manager, developer](2015_scientific-advisor.md)
 - EPAM Systems
   - [Nov, 2018 - Jul, 2020: RSEG Group](2018_rseg.md)
-  - [Jul, 2020 - till now: Thomson Reuters](2020_tr.md)
+  - [Jul, 2020 - Present: Thomson Reuters](2020_tr.md)
 
 ## Contacts
 
-Evgenii Kuzmin: <evgenii.a.kuzmin@gmail.com>, <https://linkedin.com/in/evgenii-a-kuzmin>
+Evgenii Kuzmin:
+- Email: <evgenii.a.kuzmin@gmail.com>
+- LinkedIn: <https://linkedin.com/in/evgenii-a-kuzmin>
