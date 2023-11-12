@@ -1,10 +1,17 @@
 # Evgenii Kuzmin
 
-I have 5+ years of experience as a Python Developer and 10+ years in the IT sphere, including system administration, web development and education.
+I am an IT specialist with 10+ years of experience. During my career, I have been able to work in different roles, such as:
 
-I'm most skilled in the design and implementation of cloud-native applications using Python and AWS. I believe that Python, Cloud and DevOps methodology are the best tools to solve business problems by delivering high-quality software faster.
+- System Administrator
+- Cyber Security Specialist
+- Database Administrator
+- Computer Science Teacher
 
-As a big fan of the concept of continuous learning, I always strive to improve the quality of our projects as well as our skills. I think that sharing your knowledge and experience is the same important as well as studying.
+For the last 5 years, I've been working as a Software Engineer with key skills in Python, AWS, Terraform, Docker, Jenkins, Linux and Git.
+
+I'm most skilled in the design and implementation of cloud-native applications. I believe that Python, Cloud and DevOps methodology are the best tools to solve business problems by rapidly delivering high-quality software.
+
+As a big fan of the concept of continuous learning, I always strive to improve the quality of our projects as well as our skills. I think that sharing your knowledge and experience is the same important as studying.
 
 Self-motivated, conflict-free and responsible team player.
 
