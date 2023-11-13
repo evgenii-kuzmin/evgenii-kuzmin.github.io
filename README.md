@@ -21,7 +21,7 @@ Self-motivated, conflict-free and responsible team player.
 - **Infrastructure as a code**: Terraform, Terragrunt
 - **CI/CD**: Jenkins, GitHub Actions, AWS CodePipeline
 - **Web**:
-  - *Frameworks*: FaseAPI, Flask, Pyramid, Aiohttp
+  - *Frameworks*: FastAPI, Flask, Pyramid, Aiohttp
   - *Validation/Serialization*: Pydantic, Marshmallow
   - *Scrapers/Parsers*: Selenium, lxml, Beautiful Soup
 - **Databases**: DynamoDB, PosgreSQL, Redis
